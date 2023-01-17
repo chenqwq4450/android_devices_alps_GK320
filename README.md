@@ -1,8 +1,8 @@
 # android_devices_twrp_alps_GK320
-#这是什么?
+# 这是什么
 这是电子学生证_GK320的twrp设备树
 
-#如何使用
+# 如何使用
 
 * 把所有文件放在twrp源码的device文件夹内
     *  然后直接开始编译twrp就可以了
